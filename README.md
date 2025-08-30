@@ -42,7 +42,7 @@ Confusion Matrix, ROC Curve, Precision-Recall Curve
 
 ⚙️ Installation & Running the Project
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/CreditCard_Fraud_Detection.git
+git clone (https://github.com/hariomg15/CreditCard-Fraud-Detection)
 cd CreditCard_Fraud_Detection
 
 2️⃣ Create & Activate Virtual Environment
@@ -78,5 +78,6 @@ You can deploy this app for free on:
 Accuracy: ~99%
 
 ROC-AUC Score: ~0.97
+
 
 Precision-Recall Curve shows that the model is effective in catching fraudulent cases.
